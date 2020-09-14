@@ -1,4 +1,5 @@
 <?php
+include 'header.php';
 include 'config.php';
 
 $db = new DataBaseAccess($dbhost, $dbuser, $dbpass, $dbname);

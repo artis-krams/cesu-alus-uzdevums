@@ -2,7 +2,6 @@
 include '..\config.php';
 include '..\db\DataBaseAccess.php';
 include '..\filter.php';
-include '..\header.php';
 
 $db = new DataBaseAccess($dbhost, $dbuser, $dbpass, $dbname);
 
