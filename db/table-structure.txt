@@ -1,0 +1,32 @@
+OCUSMA - customer table
+    OKCUNO - customer number
+    OKCUNM - csutomer name
+    OKCUCL - region code
+    OKSMCD - salesman code
+    OKSTAT - customer status
+MITMAS - item table
+    MMITNO - item number
+    MMITDS - item description
+    MMVOL3 - volume
+    MMITTY - item type
+    MMSTAT - item status
+OSBSTD - sales data table
+    UCCUNO - customer code
+    UCITNO - item code
+    UCORTP - order type
+    UCIVDT - invoice date
+    UCIVQT - invoiced quantity
+    UCVOL3 - sold liters
+    UCSAAM - sales amount
+CSYTAB - system parameter table
+    CTSTCO - parameter name
+    CTSTKY - key
+    CTTX40 - text
+    
+Parameter types:
+
+CUCL - region
+SMCD - salesman
+ITTY - item type
+ORTP - order type
+STAT - status
